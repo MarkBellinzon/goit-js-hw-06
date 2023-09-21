@@ -15,4 +15,4 @@ btnUp.addEventListener('click', () => {
     сounter.textContent = counterValue
 });
 
-console.dir(counterValue);
+// console.dir(counterValue);

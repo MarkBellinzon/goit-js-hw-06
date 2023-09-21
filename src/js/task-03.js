@@ -22,12 +22,10 @@ const markup = images
 
   list.insertAdjacentHTML("beforeend", markup)
      
-const pictures = document.querySelectorAll(".picture")
-
 list.style.display = "flex";
 list.style.listStyle = "none";
 list.style.gap = "50px";
 list.style.justifyContent = "center";
 
 
-console.dir(list);
+// console.dir(list);

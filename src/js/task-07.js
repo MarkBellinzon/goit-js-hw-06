@@ -5,4 +5,4 @@ input.addEventListener('change', (event) => {
     text.style.fontSize = `${event.target.value }px`
 })
 
-console.dir(text);
+// console.dir(text);

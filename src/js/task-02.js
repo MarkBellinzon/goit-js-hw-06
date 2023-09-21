@@ -19,5 +19,5 @@ ingredients.forEach(ingredient => {
 })
 
 list.append(...li);
-console.dir(list);
+// console.dir(list);
 
